@@ -1,0 +1,4 @@
+C:\Users\513912\source\repos\SmartMenuApp\.vs\SmartMenuApp\lut\0\i\SmartMenuApp\Debug\SmartMenuApp.csprojAssemblyReference.cache
+C:\Users\513912\source\repos\SmartMenuApp\.vs\SmartMenuApp\lut\0\i\SmartMenuApp\Debug\SmartMenuApp.csproj.CoreCompileInputs.cache
+C:\Users\513912\source\repos\Emil428f\SmartMenu\SmartMenuApp\.vs\SmartMenuApp\lut\0\i\SmartMenuApp\Debug\SmartMenuApp.csprojAssemblyReference.cache
+C:\Users\513912\source\repos\Emil428f\SmartMenu\SmartMenuApp\.vs\SmartMenuApp\lut\0\i\SmartMenuApp\Debug\SmartMenuApp.csproj.CoreCompileInputs.cache
